@@ -1,0 +1,14 @@
+streamlit
+fastapi
+spacy
+pypdf
+python-docx
+openai
+requests
+pandas
+scikit-learn
+pytest
+radon
+plotly
+seaborn
+PyGithub
